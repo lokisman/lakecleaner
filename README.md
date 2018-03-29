@@ -10,6 +10,7 @@
 
 ## CAD View
 ![alt text](https://github.com/lokisman/lakecleaner/blob/master/CAD_view.jpg)
+
 ====================================================================================
 
 ## Working principle:

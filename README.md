@@ -8,6 +8,8 @@
 * The main task of this project is to clean the polluted water bodies with the help of a cleaning bot which is controlled wirelessly and can be made autonomous.
 * The bot has to perform the functions of collecting the solid trash present in the water bodies like plastic bags, plastic bottles, small objects, etc. Further it should also be able to cut small plants and weeds growing on the water surface and also collect them in the trash pit. After this process, it should empty this trash into a disposable pit.
 
+## CAD View
+![alt text](https://github.com/lokisman/lakecleaner/blob/master/CAD_view.jpg)
 ====================================================================================
 
 ## Working principle:
@@ -27,3 +29,9 @@
 
 ### Chasis:       
 * The chassis is designed so as to accommodate the wheels mountings, conveyer belt mechanism mounting, four link                            mechanism mounting and finally the chassis should sustain the weight of the (garbage + self-weight).
+
+=====================================================================================
+
+## Original Picture of Bot
+
+![alt text](https://github.com/lokisman/lakecleaner/blob/master/bot_pic.jpg)
